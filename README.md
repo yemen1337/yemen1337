@@ -3,7 +3,7 @@
 ---
 ## 🖥️ My Discord :
 <a href="https://discord.com/users/1051713954025586728">
-<img src="https://lanyard-profile-readme.vercel.app/api/1051713954025586728?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" />
+<img src="https://lanyard-profile-readme.vercel.app/api/1051713954025586728?hideTimestamp=true&idleMessage=SPK%20J'suis%20at%20affilié%20au%20clan" align="center" />
 </a>
 
 ## 🌍 Programming Languages :
